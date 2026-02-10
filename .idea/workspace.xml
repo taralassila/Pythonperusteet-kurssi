@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fb525111-c2fa-4c28-a9d2-08a73b13b64f" name="Changes" comment="Viikko1" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;taralassila&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/taralassila/Python-kurssi.git&quot;,
+    &quot;accountId&quot;: &quot;48480b45-63fb-4b4d-834f-48c746bcdec2&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="39CBc0shQL2MoJxAHZYwAtFlov6" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Tehtava 1.executor": "Run",
+    "Python.Tehtava1.executor": "Run",
+    "Python.Tehtava2.1.executor": "Run",
+    "Python.Tehtava2.2.executor": "Run",
+    "Python.Tehtava2.3.executor": "Run",
+    "Python.Tehtava2.4.executor": "Run",
+    "Python.Tehtava2.5.executor": "Run",
+    "Python.Tehtava2.6.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "ai.playground.ignore.import.keys.banner.in.settings": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\taral\PycharmProjects\Python kurssi" />
+      <recent name="C:\Users\taral\PycharmProjects\Python-kurssi\Viikko2" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Python kurssi" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PY-253.30387.173" />
+        <option value="bundled-python-sdk-4762d8aabb82-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.30387.173" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb525111-c2fa-4c28-a9d2-08a73b13b64f" name="Changes" comment="" />
+      <created>1770190248848</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1770190248848</updated>
+      <workItem from="1770190249860" duration="2714000" />
+      <workItem from="1770193316782" duration="170000" />
+      <workItem from="1770193523286" duration="197000" />
+      <workItem from="1770193806633" duration="54000" />
+      <workItem from="1770193973622" duration="431000" />
+      <workItem from="1770194443281" duration="3714000" />
+      <workItem from="1770202529416" duration="16000" />
+      <workItem from="1770298400640" duration="5574000" />
+      <workItem from="1770559826776" duration="3698000" />
+      <workItem from="1770725398587" duration="2217000" />
+      <workItem from="1770727943830" duration="181000" />
+    </task>
+    <task id="LOCAL−00001" summary="Viikko1 tehtävä1">
+      <option name="closed" value="true" />
+      <created>1770193602324</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1770193602324</updated>
+    </task>
+    <task id="LOCAL−00002" summary="Viikko1">
+      <option name="closed" value="true" />
+      <created>1770199077309</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1770199077309</updated>
+    </task>
+    <task id="LOCAL−00003" summary="Viikko1">
+      <option name="closed" value="true" />
+      <created>1770560658919</created>
+      <option name="number" value="LOCAL−00003" />
+      <option name="presentableId" value="LOCAL−00003" />
+      <updated>1770560658919</updated>
+    </task>
+    <task id="LOCAL−00004" summary="Viikko1">
+      <option name="closed" value="true" />
+      <created>1770560878251</created>
+      <option name="number" value="LOCAL−00004" />
+      <option name="presentableId" value="LOCAL−00004" />
+      <updated>1770560878251</updated>
+    </task>
+    <task id="LOCAL−00005" summary="Viikko1">
+      <option name="closed" value="true" />
+      <created>1770560954381</created>
+      <option name="number" value="LOCAL−00005" />
+      <option name="presentableId" value="LOCAL−00005" />
+      <updated>1770560954381</updated>
+    </task>
+    <task id="LOCAL−00006" summary="Viikko1">
+      <option name="closed" value="true" />
+      <created>1770560977191</created>
+      <option name="number" value="LOCAL−00006" />
+      <option name="presentableId" value="LOCAL−00006" />
+      <updated>1770560977191</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Viikko1 tehtävä1" />
+    <MESSAGE value="Viikko1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Viikko1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../Python kurssi/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Python_kurssi$Tehtava2_3.coverage" NAME="Tehtava2.3 Coverage Results" MODIFIED="1770562211399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Moduuli 2" />
+    <SUITE FILE_PATH="coverage/Python_kurssi$Tehtava2_6.coverage" NAME="Tehtava2.6 Coverage Results" MODIFIED="1770727476256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python kurssi/Moduuli 2" />
+    <SUITE FILE_PATH="coverage/Python_kurssi$Tehtava2_4.coverage" NAME="Tehtava2.4 Coverage Results" MODIFIED="1770300272136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Viikko1" />
+    <SUITE FILE_PATH="coverage/Testi$Tehtava_1.coverage" NAME="Tehtava 1 Coverage Results" MODIFIED="1770191630776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Viikko 1" />
+    <SUITE FILE_PATH="coverage/Python_kurssi$Tehtava2_2.coverage" NAME="Tehtava2.2 Coverage Results" MODIFIED="1770560063604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Viikko1" />
+    <SUITE FILE_PATH="coverage/Python_kurssi$Tehtava2_5.coverage" NAME="Tehtava2.5 Coverage Results" MODIFIED="1770303103640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Viikko1" />
+    <SUITE FILE_PATH="coverage/Python_kurssi$Tehtava1.coverage" NAME="Tehtava1 Coverage Results" MODIFIED="1770193572605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Viikko1" />
+    <SUITE FILE_PATH="coverage/Python_kurssi$Tehtava2_1.coverage" NAME="Tehtava2.1 Coverage Results" MODIFIED="1770196849103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Viikko1" />
+  </component>
+</project>
