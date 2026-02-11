@@ -1,0 +1,7 @@
+Vuosi = int(input("Vuosi:"))
+if Vuosi %4 == 0 and Vuosi < 100:
+    print("Vuosi on karkausvuosi.")
+elif Vuosi %100 == 0 and Vuosi %400 == 0:
+    print("Vuosi on karkausvuosi.")
+else:
+    print("Vuosi ei ole karkausvuosi.")
